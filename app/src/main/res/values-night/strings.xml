@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="message_touch_sensor">Touch the sensor</string>
+    <string name="message_no_fingerprint_enrolled">Add a fingerprint from settings to continue using the app.</string>
+    <string name="message_fingerprint_sensor_hardware_unavailable">Fingerprint currently unavailable</string>
+    <string name="message_no_fingerprint_hardware">Fingerprint Hardware not found</string>
+    <string name="message_some_error_occurred">Some Error Occurred</string>
+</resources>

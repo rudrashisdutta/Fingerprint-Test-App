@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fingerprint Test App</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="message_touch_sensor">Touch the sensor</string>
+    <string name="description_of_fp_img">It shows when finger print matches or changes or a visual update to the screen.</string>
+    <string name="info_text_description">It shows the information while attempting fingerprint authentication.</string>
+    <string name="message_no_fingerprint_enrolled">Add a fingerprint from settings to continue using the app.</string>
+    <string name="message_fingerprint_sensor_hardware_unavailable">Fingerprint currently unavailable</string>
+    <string name="message_no_fingerprint_hardware">Fingerprint Hardware not found</string>
+    <string name="message_some_error_occurred">Some Error Occurred</string>
+</resources>
